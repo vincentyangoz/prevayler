@@ -10,7 +10,6 @@ Prevayler is the original free software prevalence layer implementation for
 Java.
 
 
-
 Free Software License
 =========================
 The Prevayler library is free software, distributed under a BSD license.
